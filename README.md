@@ -1,2 +1,1 @@
-# design-pattern
-For learning Design Patterns
+# Design Pattern Knowledge
